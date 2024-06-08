@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![kugaichen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kugaichen&show_icons=true&theme=transparent)
 
-[![kugaichen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kugaichen)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![kugaichen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kugaichen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
