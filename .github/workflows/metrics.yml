@@ -37,7 +37,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: JavaScript
+          plugin_languages_ignored: JavaScript, CSS, HTML
           plugin_languages_limit: 4
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
