@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400" />
+<img src="/github-metrics.svg" alt="Metrics" width="100%" />
 
 ![kugaichen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kugaichen&show_icons=true&theme=transparent)
